@@ -1,6 +1,7 @@
 # Wavly
 
 Wavly is a free and open-source note-taking app that allows you to create, organize, and manage your notes with ease. It is designed to be simple, intuitive, and user-friendly, making it the perfect tool for students, professionals, and anyone who needs to keep track of their ideas and thoughts.
+<br>
 ![wavly-banner](https://github.com/wavly/.github/assets/122219240/18387a5e-530f-471f-906b-83b0fed75a7a)
 
 ## Features
